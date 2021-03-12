@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Sheep",
+  "version": "1.0",
+  "description": "Populates screen with sheep.",
+  "icons": {
+    "16": "icon/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["js/jquery.3.6.js","js/jquery.sheep.js","content/sheep.js"]
+    }
+  ],
+  "author": "based on tobozo/jqsheep jQuery plugin; adaptation by codecivil"
+}
