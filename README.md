@@ -16,3 +16,9 @@ Credits :
 - Gif Sprite : http://spritedatabase.net/file/12735
 - Help file : http://mentadd.com/sheep/
 - Imagemagick 'convert' + Microsoft Gif Animator
+
+
+Firefox Addon
+=============
+
+- populates websites with sheep
