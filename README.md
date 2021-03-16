@@ -22,3 +22,5 @@ Firefox Addon
 =============
 
 - populates websites with sheep
+- configurable grazing times
+
